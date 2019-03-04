@@ -1,0 +1,15 @@
+{
+  "name": "unitTesting101",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jest-intro.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Amir",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}

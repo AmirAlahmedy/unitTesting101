@@ -2,7 +2,7 @@
   "name": "unitTesting101",
   "version": "1.0.0",
   "description": "",
-  "main": "jest-intro.js",
+  "main": "functions.js",
   "scripts": {
     "test": "jest"
   },
@@ -10,6 +10,7 @@
   "author": "Amir",
   "license": "MIT",
   "devDependencies": {
+    "axios": "^0.18.0",
     "jest": "^24.1.0"
   }
 }
